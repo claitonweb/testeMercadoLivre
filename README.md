@@ -11,6 +11,7 @@ Na pasta raiz do projeto e execute
 
 # Execução
 
-Abra um terminal na pasta raiz do projeto e execute  ***npm start*** <br>
-Abra um segundo terminal na pasta server execute  ***node index*** 
+Abra um segundo terminal na pasta server execute  ***node index*** <br>
+Abra um terminal na pasta raiz do projeto e execute  ***npm start***
+ 
 

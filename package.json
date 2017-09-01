@@ -15,7 +15,7 @@
     "request-promise-native": "^1.0.4"
   },
   "scripts": {
-    "start": "react-scripts start && node server",
+    "start": "react-scripts start",
     "start:front": "react-scripts start",
     "start:server": "node server",
     "build": "react-scripts build",
