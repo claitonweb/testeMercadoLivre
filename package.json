@@ -1,0 +1,26 @@
+{
+  "name": "superlab",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "express-load": "^1.1.16",
+    "method-override": "^2.3.9",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.12",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start && node server",
+    "start:front": "react-scripts start",
+    "start:server": "node server",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:9000"
+}
