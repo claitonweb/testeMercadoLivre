@@ -7,7 +7,7 @@
 # Instalação
 
 Na pasta raiz do projeto e execute
-**  *npm install* ** 
+** *npm install*** 
 
 # Execução
 
